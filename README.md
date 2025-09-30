@@ -33,3 +33,28 @@ Clone the repository and open `index.html` in your browser:
 ```bash
 git clone https://github.com/RenujaSathnidu/Portfolio---HTML-CSS.git
 cd Portfolio---HTML-CSS
+```
+Then open:
+
+```bash
+index.html
+```
+---
+
+## 📬 Contact
+
+If you’d like to connect, feel free to reach out:
+
+- 📧 Email: renujasathnidu@gmail.com
+- 🌐 LinkedIn: Renuja Sathnidu
+- 📱 WhatsApp: https://wa.me/qr/WEXNJPRTTV5MI1
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License – you’re free to use and adapt it.
+
+---
+
+<p align="center">💡 Thanks for visiting my portfolio repo. Hope you enjoy exploring it as much as I enjoyed building it! 🚀 </p>
